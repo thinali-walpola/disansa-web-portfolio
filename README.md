@@ -7,7 +7,7 @@ This project includes hero section, stats, pricing cards, "Why Me" section, FAQ 
 ---
 
 ## 🌐 Live Demo
-Check it live here: [https://github.com/thinali-walpola/disansa-web-portfolio/settings/pages]
+Check it live here: [https://thinali-walpola.github.io/disansa-web-portfolio/]
 
 ---
 
